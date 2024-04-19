@@ -1,4 +1,5 @@
 # lobohackathon-notion
+Salvador Contreras Gonzalez
 Descripción de la problematica
 En el contexto universitario, existe cierta falta de colaboración y comunicación entre los estudiantes. El deficit de intercambio de información y experiencias, sean trabajos, proyectos o algun otro tipo de contenido relacionado con el ambiente estudiantil genera un cierre considerable hacia el avance pleno, fructifero y sobre todo, ameno y placentero de estos mismos. El valor del bien comun no esta tan presente en la comunidad universitaria. 
 Es por ello nosotros desarrollaremos una plataforma centralizada en la colaboracion estudiantil, donde todos tengan la oportunidad de compartir todo tipo de informacion y contenido relacionado a los topicos de sus respectivas facultades y carreras, abriendo asi todo un mundo de conocimientos y experiencias para todos.
