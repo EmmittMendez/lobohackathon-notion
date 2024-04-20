@@ -1,6 +1,6 @@
 <h1> NoteHub: Collective note, Collective success </h1>
 
-![]()
+![logo3](https://github.com/EmmittMendez/lobohackathon-notion/assets/166971421/348dd151-0488-410a-a259-e2f59bed8482)
 
 <h2> Descripción de la problematica </h2>
 
