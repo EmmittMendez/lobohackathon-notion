@@ -21,7 +21,7 @@ body {
 }
 
 .container {
-    width: 90%;
+    width: 70%;
     max-width: 1200px;
     margin: 0 auto;
 
@@ -40,7 +40,8 @@ nav {
     box-sizing: border-box;
     /* background-color: #53698f; */
     background: rgb(2, 0, 36);
-    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%);
+    /* background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 35%, rgba(0, 212, 255, 1) 100%); */
+    background-image: linear-gradient(to top, #48c6ef 0%, #6f86d6 100%);
     color: #fff;
     display: flex;
     justify-content: space-between;
@@ -53,7 +54,7 @@ nav {
 
 .logo img {
     width: 50%;
-    height: 70%;
+    height: 100%;
 }
 
 
@@ -119,7 +120,7 @@ nav {
 
 .hero__main {
     text-align: center;
-    min-height: 80vh;
+    min-height: 55vh;
 }
 
 .hero__logo {
@@ -148,6 +149,7 @@ nav {
     /* box-shadow: 5px 5px 6px rgba(0, 0, 0, .5); */
     display: flex;
     flex-direction: column;
+
 
 }
 
@@ -196,28 +198,18 @@ nav {
     --url-image: url('img/github.svg');
 }
 
-.card:nth-of-type(8) {
-    --url-image: url('img/ops.svg');
+.card:nth-of-type(12) {
+    --url-image: url('img/bitcoin.svg');
 }
 
-.card:nth-of-type(8) {
-    --url-image: url('img/ops.svg');
-}
-
-.card:nth-of-type(8) {
-    --url-image: url('img/ops.svg');
-}
-
-.card:nth-of-type(8) {
-    --url-image: url('img/ops.svg');
-}
 
 /* ------------------------------------------ */
 .card::before {
     content: "";
     border-radius: 10px 10px 0 0;
     display: block;
-    width: 100%;
+
+    width: 40%;
     height: 120px;
     background-image: var(--url-image);
     background-position: center;
