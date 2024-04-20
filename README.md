@@ -1,5 +1,7 @@
 <h1> NoteHub: Collective note, Collective success </h1>
 
+![]()
+
 <h2> Descripción de la problematica </h2>
 
 <p>
